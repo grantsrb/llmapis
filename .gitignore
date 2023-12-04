@@ -2,3 +2,4 @@ __pycache__/
 *.swp
 *.egg-info/
 .ipynb_checkpoints/
+*.ipynb
